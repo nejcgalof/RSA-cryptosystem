@@ -1,0 +1,17 @@
+generiranje kljucev:
+
+generiranje 2 praštevil -> 2*log3n
+stevilo n (p*q) -> O(1)
+eulerjeva (p - 1) * (q - 1) -> O(1)
+e: (nakljucno prastevilo) -> N*log3n (N: kokrat deli eulerja)
+d: modular_linear_equation_solver ->
+	extended euclid -> najslabsi primer -> log(n)
+	1x samo izvede, ker je resitev natanko 1: x0 := x*(b/d) mod n; -> log2(n) in (n_d % b==0) je vedno true in ne rabimo
+
+=O(2*N*log3(n) + log2(n) + log(n))
+_________________________
+šifriranje sporoèila:
+
+st_znakov * log2n
+= O(M*log2(n))
+_________________________

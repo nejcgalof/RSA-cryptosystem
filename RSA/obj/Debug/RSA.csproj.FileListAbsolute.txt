@@ -1,0 +1,9 @@
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\bin\Debug\RSA.exe.config
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.Form1.resources
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\bin\Debug\RSA.exe
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\bin\Debug\RSA.pdb
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.exe
+D:\magisterij\izbrani_algoritmi\rsa\RSA\RSA\obj\Debug\RSA.pdb
